@@ -10,7 +10,7 @@ We will answer the following questions:
 3) From the player that scores the most: Where does he prefers to shoot and also where does he score the most goals?
 4) Who is the best "duo" (Goals and assisted each other the most)
 
-Project_VenezuelavsChile
+Project_VenezuelavsChile:
 
 I wanted to see if every single player on the Venezuelan's men soccer team touched the ball during the creation of the third goal against Chile. Not only that, but also wanted to see on which side of the field they played the most. 
 
