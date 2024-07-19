@@ -1,6 +1,4 @@
-These set of codes are just work I have done using free data available online.
-
-Feel free to make suggestions!
+Backups of other projects or on-going projects
 
 Project Understat:
 Allows you to evaluate which players are the most influential for a team during the calendar year using data from Understat.com.
